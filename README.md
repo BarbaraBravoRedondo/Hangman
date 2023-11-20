@@ -1,8 +1,47 @@
-# React + Vite
+# Hangman Game with React and Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a Hangman game built with React and powered by Vite. It offers a simple yet entertaining word-guessing experience.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+### Prerequisites
+
+- Node.js (recommended version)
+- npm or yarn
+
+### Installation
+
+1. Clone this repository.
+2. Install dependencies using npm or yarn:
+
+   ```bash
+   npm install
+   # or
+   yarn install
+
+   
+### Development
+- npm run dev
+
+### Deployment
+
+- npm run deploy
+
+
+### Dependencies
+
+Node-sass
+React
+React-DOM
+React-Router-DOM
+
+### Dev Dependencies
+@types/react
+@types/react-dom
+@vitejs/plugin-react
+ESLint
+ESLint plugins for React
+gh-pages
+Sass
+Vite
