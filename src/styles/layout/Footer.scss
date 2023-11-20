@@ -19,4 +19,25 @@
       text-decoration: none;
     }
   }
+  .infoAutor{
+  .footer__copy {
+    margin-bottom: 0.5rem; /* Añade un espacio debajo del texto */
+  }
+
+  .footer__icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 0.5rem;
+
+
+    .footer__icon-link {
+      font-size: 2rem; /* Tamaño de los íconos */
+      margin: 0 1rem; /* Espacio entre los íconos */
+
+    }
+  }}
 }
+
+
+/* Otros estilos de tu archivo Footer.scss */
+
