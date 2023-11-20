@@ -6,7 +6,7 @@ function Header() {
       <header>
         <h1 className='header__title'>Juego del ahorcado</h1>
       </header>
-      ;
+      
     </>
   );
 }
