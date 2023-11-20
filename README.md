@@ -20,7 +20,7 @@ This repository contains a Hangman game built with React and powered by Vite. It
    # or
    yarn install
 
-   
+
 ### Development
 - npm run dev
 
@@ -31,17 +31,17 @@ This repository contains a Hangman game built with React and powered by Vite. It
 
 ### Dependencies
 
-Node-sass
-React
-React-DOM
-React-Router-DOM
+ - Node-sass
+ - React
+ - React-DOM
+ - React-Router-DOM
 
 ### Dev Dependencies
-@types/react
-@types/react-dom
-@vitejs/plugin-react
-ESLint
-ESLint plugins for React
-gh-pages
-Sass
-Vite
+ - @types/react
+ - @types/react-dom
+ - @vitejs/plugin-react
+ - ESLint
+ - ESLint plugins for React
+ - gh-pages
+ - Sass
+ - Vite
